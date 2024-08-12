@@ -1,0 +1,2 @@
+# latihanJavascript
+Javascript Exercise
